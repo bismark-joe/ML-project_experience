@@ -1,5 +1,6 @@
 // Authur: Ademusire Adebisi Joe
 // Date: 26-06-2018
+// I will do a review on this code soon
 
 
 	function find(main, tet)
